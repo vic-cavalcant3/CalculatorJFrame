@@ -28,11 +28,18 @@ Permite realizar as quatro operações básicas com uma interface elegante e res
    ```bash
    git clone https://github.com/vic-cavalcant3/CalculatorJFrame
    cd CalculatorJFrame
+   cd src
   
 2. Compile o arquivo
     ```bash
-    javac Main.java
+    javac main.java
 
 3. Execute o programa
     ```bash
    java Main
+
+## 📌 Outros projetos de calculadora
+
+🧾 Calculadora Básica em Java - https://github.com/vic-cavalcant3/CalculatorBasic
+
+🖼️ Calculadora Com Scanner - https://github.com/vic-cavalcant3/ScannerCalculator
